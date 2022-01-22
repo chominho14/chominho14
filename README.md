@@ -4,6 +4,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchominho14&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+---
+
 ###### Hi there 👋 I`m Web developer.
 ###### I enjoy party and traveling. 🥳🧳
 ###### I hope to develop every awesome things. 😎
@@ -12,7 +14,7 @@
 ###### I`m currently learning React.🌱
 
 
-
+---
 ## Skills👨‍🔧
 
 
@@ -23,10 +25,15 @@
 ### Etc
 [![PUG](https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=Pug&logoColor=white)](github.com/chominho14/metube-reloaded)  [![AWS](https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)](github.com/chominho14/metube-reloaded)  [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)](github.com/chominho14/metube-reloaded)  [![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)](github.com/chominho14/metube-reloaded)  [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white)](github.com/chominho14/minflix)
 
+---
 
 ## Stats 😄
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chominho14&theme=react&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chominho14&theme=react&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+
 
 <!--
 **chominho14/chominho14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
