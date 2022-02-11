@@ -11,7 +11,7 @@
 ###### I hope to develop every awesome things. 😎
 
 ###### I`m currently working on React Master.🔭
-###### I`m currently learning React.🌱
+###### I`m currently learning React, Typescript and NextJS.🌱
 
 
 ---
