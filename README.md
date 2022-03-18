@@ -10,7 +10,7 @@
 ###### I enjoy party and traveling. 🥳🧳
 ###### I hope to develop every awesome things. 😎
 
-###### I`m currently working on React Master.🔭
+###### I`m currently working on MynextApp.🔭
 ###### I`m currently learning React, Typescript and NextJS.🌱
 
 
