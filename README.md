@@ -24,7 +24,7 @@
 
 ###### 코인 트래커 웹사이트 : https://chominho14.github.io/typescript-practice/
 
-###### 현재 작업중인 사이트 - 친구만들기 웹 앱, 타입스크립트를 이용한 TodoList
+###### 현재 작업중인 사이트 - 친구만들기 웹 앱, 타입스크립트를 이용한 trello를 진행 중입니다.
 
 ---
 ## Skills👨‍🔧
