@@ -14,6 +14,10 @@
 ###### I`m currently working on MakeFriendsApp.🔭
 ###### I`m currently learning React, Typescript and NextJS.🌱
 
+---
+
+Notion - https://www.notion.so/f8ece8cd8d66483a90e910af2a33fcac
+
 
 ---
 ## Project Sites👩‍🔧
