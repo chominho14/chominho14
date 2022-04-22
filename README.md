@@ -16,7 +16,7 @@
 
 ---
 
-Notion - https://www.notion.so/f8ece8cd8d66483a90e910af2a33fcac
+Notion - https://gleaming-garlic-1d6.notion.site/f8ece8cd8d66483a90e910af2a33fcac
 
 
 ---
