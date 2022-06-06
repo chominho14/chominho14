@@ -28,7 +28,9 @@ Notion - https://gleaming-garlic-1d6.notion.site/f8ece8cd8d66483a90e910af2a33fca
 
 ###### 코인 트래커 웹사이트 : https://chominho14.github.io/typescript-practice/
 
-###### 현재 작업중인 사이트 - 친구만들기 웹 앱, 타입스크립트를 이용한 trello를 진행 중입니다.
+###### 메모장 만들기 : https://chominho14.github.io/trello/
+
+###### 현재 작업중인 사이트 - 친구만들기 웹 앱, socketio를 이용한 웹 사이트.
 
 ---
 ## Skills👨‍🔧
