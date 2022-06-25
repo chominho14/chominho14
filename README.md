@@ -11,8 +11,8 @@
 ###### I enjoy party and traveling. 🥳🧳
 ###### I hope to develop every awesome things. 😎
 
-###### I`m currently working on MakeFriendsApp and SocketIO Project.🔭
-###### I`m currently learning React, Typescript and NextJS.🌱
+###### I`m currently working on MakeFriendsApp.🔭
+###### I`m currently learning Algorithm, Typescript and NextJS.🌱
 
 ---
 
