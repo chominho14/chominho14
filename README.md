@@ -30,7 +30,7 @@ Notion - https://gleaming-garlic-1d6.notion.site/f8ece8cd8d66483a90e910af2a33fca
 
 ###### 메모장 만들기 : https://chominho14.github.io/trello/
 
-###### 현재 작업중인 사이트 - 친구만들기 웹 앱. Chatbot 프로그램
+###### 현재 작업중인 사이트 - 기술 블로그 
 
 ---
 ## Skills👨‍🔧
