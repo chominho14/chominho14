@@ -22,13 +22,12 @@ Notion - https://gleaming-garlic-1d6.notion.site/f8ece8cd8d66483a90e910af2a33fca
 ---
 ## Project Sites👩‍🔧
 
+###### 기술 블로그 : https://my-blog-chominho14.vercel.app/
+
 ###### 동영상 플랫폼 웹사이트 : http://metube-reloaded.herokuapp.com/
 
 ###### 영화 소개 웹사이트 : https://chominho14.github.io/minflix/
 
-###### 코인 트래커 웹사이트 : https://chominho14.github.io/typescript-practice/
-
-###### 메모장 만들기 : https://chominho14.github.io/trello/
 
 ###### 현재 작업중인 사이트 - 기술 블로그 
 
