@@ -31,6 +31,8 @@ Notion - https://gleaming-garlic-1d6.notion.site/f8ece8cd8d66483a90e910af2a33fca
 
 ###### 현재 작업중인 사이트 - 기술 블로그 
 
+###### 이번 학기 목표 - Typescript, Express, MongoDB, TDD !!!!
+
 ---
 ## Skills👨‍🔧
 
