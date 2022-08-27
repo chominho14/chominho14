@@ -53,7 +53,7 @@ Notion - https://gleaming-garlic-1d6.notion.site/f8ece8cd8d66483a90e910af2a33fca
 
 ---
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/whalsgh14)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=whalsgh14)](https://solved.ac/whalsgh14)
 
 ---
 
