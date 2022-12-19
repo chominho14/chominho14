@@ -11,8 +11,7 @@
 ###### I enjoy party and traveling. 🥳🧳
 ###### I hope to develop every awesome things. 😎
 
-###### I`m currently working on InternShip.🔭
-###### I`m currently learning Algorithm, Typescript and NextJS.🌱
+###### I`m currently learning Algorithm, Typescript and NestJS.🌱
 
 ---
 
@@ -29,9 +28,9 @@ Notion - https://gleaming-garlic-1d6.notion.site/f8ece8cd8d66483a90e910af2a33fca
 ###### 영화 소개 웹사이트 : https://chominho14.github.io/minflix/
 
 
-###### 현재 작업중인 사이트 - 기술 블로그 
+###### 현재 작업중인 사이트 - X
 
-###### 이번 학기 목표 - Typescript, Express, MongoDB, TDD !!!!
+###### 22.12.01 ~ 23년 상반기 - 취업, NestJS, Javascript, Typescript, TDD 공부
 
 ---
 ## Skills👨‍🔧
