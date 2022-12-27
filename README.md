@@ -23,7 +23,6 @@ Notion - https://gleaming-garlic-1d6.notion.site/f8ece8cd8d66483a90e910af2a33fca
 
 ###### 기술 블로그 : https://my-blog-chominho14.vercel.app/
 
-###### 동영상 플랫폼 웹사이트 : http://metube-reloaded.herokuapp.com/
 
 ###### 영화 소개 웹사이트 : https://chominho14.github.io/minflix/
 
