@@ -6,11 +6,6 @@
 
 ---
 
-###### Hi there 👋 I`m Web developer.
-###### I`m studying computer science at Inha Technical College. 💻
-###### I enjoy party and traveling. 🥳🧳
-###### I hope to develop every awesome things. 😎
-
 ###### I`m currently learning Algorithm, Typescript and NestJS.🌱
 
 ---
@@ -29,7 +24,7 @@ Notion - https://gleaming-garlic-1d6.notion.site/f8ece8cd8d66483a90e910af2a33fca
 
 ###### 현재 작업중인 사이트 - X
 
-###### 22.12.01 ~ 23년 상반기 - 취업, NestJS, Javascript, Typescript, TDD 공부
+###### 23년 - 취업, NestJS, Javascript, Typescript, TDD 공부
 
 ---
 ## Skills👨‍🔧
