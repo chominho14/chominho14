@@ -6,7 +6,7 @@
 
 ---
 
-###### I`m currently learning Algorithm, Typescript and NestJS.🌱
+###### I`m currently learning Algorithm, SpringBoot and JPA.🌱
 
 ---
 
