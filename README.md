@@ -16,9 +16,6 @@ Notion - https://gleaming-garlic-1d6.notion.site/f8ece8cd8d66483a90e910af2a33fca
 ---
 ## Project Sites👩‍🔧
 
-###### Recruit Project : http://ec2-13-209-26-207.ap-northeast-2.compute.amazonaws.com/
-
-###### 기술 블로그 : https://my-blog-chominho14.vercel.app/
 
 
 
