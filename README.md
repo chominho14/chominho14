@@ -6,7 +6,7 @@
 
 ---
 
-###### I`m currently learning Algorithm, SpringBoot and JPA.🌱
+###### I`m currently learning algorithms and deep learning.🌱
 
 ---
 
@@ -19,13 +19,7 @@ Notion - https://gleaming-garlic-1d6.notion.site/f8ece8cd8d66483a90e910af2a33fca
 
 
 
-###### 23년 - Java, Spring, CS, 알고리즘
-
----
-
-## Stats 😄
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chominho14&theme=react&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chominho14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+###### 25년 - CS, 알고리즘
 
 
 ---
