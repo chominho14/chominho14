@@ -4,21 +4,11 @@
 
 ---
 
-###### I`m currently learning algorithms and deep learning.🌱
+###### 현재 한양대학교 일반대학원 인공지능융합학과에 재학 중이며, 2026년 2월 졸업 예정입니다. 🌱
 
 ---
 
-Notion - https://gleaming-garlic-1d6.notion.site/f8ece8cd8d66483a90e910af2a33fcac
-
-
----
-## Project Sites👩‍🔧
-
-
-
-
-###### 25년 - CS, 알고리즘
-
+###### 25년 - Large Language Models
 
 ---
 
