@@ -11,11 +11,11 @@
 ---
 
 ## ☎️ Contact
-- **Email**: whalsgh14@hanyang.ac.kr  
+- **Email**: 9686ho@gmail.com  
 - **Phone**: 010-2973-2959  
 - **ORCID**: https://orcid.org/0009-0005-3746-0662  
 - **Google Scholar**: [https://scholar.google.com/citations?user=MinhoCho ](https://scholar.google.com/citations?user=KU2GNwsAAAAJ&hl=ko&oi=sra) 
-- **LinkedIn**: https://www.linkedin.com/in/MinhoCho
+- **LinkedIn**: [https://www.linkedin.com/in/MinhoCho](https://www.linkedin.com/in/minho-cho-014b2225b/)
 
 ---
 
